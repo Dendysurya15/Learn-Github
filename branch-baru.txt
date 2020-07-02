@@ -1,3 +1,5 @@
 Ini adalah sebuah branch terbaru semoga saya bisa memahami dengan cepat materi Git ini 
 Semoga materi Git ini sangat bermanfaat kedepannya amin
+Mau coba lagi dong ini konflik gak
 Semoga apa yang dihadapi kedepannya bisa dilewati dengan mudah 
+Apakah baris ini akan konflik
